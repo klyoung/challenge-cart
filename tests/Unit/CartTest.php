@@ -29,6 +29,9 @@ class CartTest extends TestCase
      */
     protected Item $foundation;
 
+    /**
+     * Setup.
+     */
     protected function setUp(): void
     {
         parent::setUp();
